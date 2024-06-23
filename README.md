@@ -1,16 +1,13 @@
-## Hi there 👋
+## bem vindo ao meu cafôfo☕ 👋
 
-<!--
-**Pasteldecaune/Pasteldecaune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- estudante do alura😜
+- aprendendo linguagem JavaScript!🌟
+- utilizarei esse espaço para me organizar e melhorar meu aprendizado!
+- caso queira entrar em contato comigo, segue abaixo a minha rede social!📩📪
+- @dr4k.xp🙈
+👻👾
+- minha vibe?👾😝🥰🛹🌙🌹
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://tenor.com/qtiw1teTZEe.gif)
+
