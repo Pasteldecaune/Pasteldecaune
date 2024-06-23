@@ -9,5 +9,5 @@
 - minha vibe?👾😝🥰🛹🌙🌹
 
 
-![](https://tenor.com/qtiw1teTZEe.gif)
+![]()
 
